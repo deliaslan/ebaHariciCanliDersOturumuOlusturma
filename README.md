@@ -12,4 +12,4 @@
   <img src="https://preview.redd.it/4bdk4vj8psh51.jpg?width=640&crop=smart&auto=webp&s=f054d297cf562a6dbf15f0bfd550042dbbdaf92d" width="350">
 </p>
 
-## if it work don't touch it :)
+## if it works don't touch it :)
